@@ -46,6 +46,10 @@ Além disso, o bot possui regras de privacidade, como a exclusão das mensagens 
 6. Faça login no WhatsApp Web escaneando o código QR.
 7. Interaja com o bot no WhatsApp enviando mensagens para o contato/grupo correspondente.
 
+## Configuração do Projeto
+
+O projeto requer a instalação das bibliotecas re, os, time, random, psutil, sqlite3, datetime, pandas, emoji, selenium e IPython. Certifique-se de ter o Chrome WebDriver instalado e configurado corretamente para o Selenium.
+
 ## Contribuição
 
 Sinta-se à vontade para contribuir para este projeto. Você pode abrir issues para relatar problemas, sugerir novas funcionalidades ou enviar pull requests com melhorias no código.
