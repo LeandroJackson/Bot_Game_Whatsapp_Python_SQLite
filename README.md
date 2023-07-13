@@ -1,7 +1,7 @@
 # O-QUE-VOCE-PREFERE
-# Jogo de Perguntas e Respostas no WhatsApp
+# Jogo de Perguntas e Respostas "O QUE VOCÊ PREFERE" no WhatsApp
 
-Este é um projeto de um bot para WhatsApp que implementa um jogo de perguntas e respostas usando a biblioteca Selenium em Python. O objetivo do bot é interagir com os usuários, enviando perguntas de diferentes níveis de dificuldade e categorias.
+Este é um projeto de um bot para WhatsApp que implementa um jogo de perguntas e respostas "O QUE VOCÊ PREFERE" usando a biblioteca Selenium em Python. O objetivo do bot é interagir com os usuários, enviando perguntas de diferentes níveis de dificuldade e categorias.
 
 ## Funcionalidades
 
